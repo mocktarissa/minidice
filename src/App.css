@@ -20,8 +20,22 @@
 .App-link {
   color: #09d3ac;
 }
-.fas{
-font-size: 1500%;
+.die{
+font-size: 10em;
 text-align: center;
-margin-left: 35%;
+padding: 0.25em;
+color: slateblue;
+}
+
+body{
+  text-align: center
+}
+body:button{
+  background-color: black;
+  color: white;
+  width: 15em;
+  padding: 1.5em;
+  border: 0px;
+  border-radius: 10px;
+  margin-top:10px 
 }

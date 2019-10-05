@@ -1,8 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ### Welcome to minidice game using React . Its just a small project to practice my react skills.
+Thanks to Sarah Drasner for providing the css Shake animation found here :
+https://css-tricks.com/snippets/css/shake-css-keyframe-animation/ 
+
+
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run alll the usual node command fell free to reuse and modify:
 
 ### `npm start`
 
