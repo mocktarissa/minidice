@@ -11,8 +11,8 @@ class Rolldice extends React.Component{
     render(){
         return(
             <div>
-                <Dice></Dice>
-                <Dice></Dice>
+                <Dice face="two"></Dice>
+                <Dice face="six"></Dice>
             </div>
         )
     }

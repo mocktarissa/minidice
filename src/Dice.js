@@ -8,7 +8,7 @@ constructor(props){
     }
 }
     render(){
-        return <div><a href="https://github.com/mocktarissa/minidice">Welcome to the game</a></div>
+        return <div><i className={`fas fa-dice-${this.props.face}`}></i></div>
     }
 } 
 
